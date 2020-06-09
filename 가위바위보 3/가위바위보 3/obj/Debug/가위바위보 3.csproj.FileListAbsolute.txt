@@ -1,0 +1,10 @@
+C:\Users\정민영\Desktop\가위바위보 3\가위바위보 3\bin\Debug\가위바위보 3.exe.config
+C:\Users\정민영\Desktop\가위바위보 3\가위바위보 3\bin\Debug\가위바위보 3.exe
+C:\Users\정민영\Desktop\가위바위보 3\가위바위보 3\bin\Debug\가위바위보 3.pdb
+C:\Users\정민영\Desktop\가위바위보 3\가위바위보 3\obj\Debug\가위바위보 3.csprojAssemblyReference.cache
+C:\Users\정민영\Desktop\가위바위보 3\가위바위보 3\obj\Debug\가위바위보_3.Form1.resources
+C:\Users\정민영\Desktop\가위바위보 3\가위바위보 3\obj\Debug\가위바위보_3.Properties.Resources.resources
+C:\Users\정민영\Desktop\가위바위보 3\가위바위보 3\obj\Debug\가위바위보 3.csproj.GenerateResource.cache
+C:\Users\정민영\Desktop\가위바위보 3\가위바위보 3\obj\Debug\가위바위보 3.csproj.CoreCompileInputs.cache
+C:\Users\정민영\Desktop\가위바위보 3\가위바위보 3\obj\Debug\가위바위보 3.exe
+C:\Users\정민영\Desktop\가위바위보 3\가위바위보 3\obj\Debug\가위바위보 3.pdb

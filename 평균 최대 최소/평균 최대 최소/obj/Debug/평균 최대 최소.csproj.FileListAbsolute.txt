@@ -1,0 +1,10 @@
+C:\Users\정민영\Desktop\평균 최대 최소\평균 최대 최소\bin\Debug\평균 최대 최소.exe.config
+C:\Users\정민영\Desktop\평균 최대 최소\평균 최대 최소\bin\Debug\평균 최대 최소.exe
+C:\Users\정민영\Desktop\평균 최대 최소\평균 최대 최소\bin\Debug\평균 최대 최소.pdb
+C:\Users\정민영\Desktop\평균 최대 최소\평균 최대 최소\obj\Debug\평균 최대 최소.csprojAssemblyReference.cache
+C:\Users\정민영\Desktop\평균 최대 최소\평균 최대 최소\obj\Debug\평균_최대_최소.Form1.resources
+C:\Users\정민영\Desktop\평균 최대 최소\평균 최대 최소\obj\Debug\평균_최대_최소.Properties.Resources.resources
+C:\Users\정민영\Desktop\평균 최대 최소\평균 최대 최소\obj\Debug\평균 최대 최소.csproj.GenerateResource.cache
+C:\Users\정민영\Desktop\평균 최대 최소\평균 최대 최소\obj\Debug\평균 최대 최소.csproj.CoreCompileInputs.cache
+C:\Users\정민영\Desktop\평균 최대 최소\평균 최대 최소\obj\Debug\평균 최대 최소.exe
+C:\Users\정민영\Desktop\평균 최대 최소\평균 최대 최소\obj\Debug\평균 최대 최소.pdb

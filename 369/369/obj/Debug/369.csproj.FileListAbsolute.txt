@@ -1,0 +1,10 @@
+C:\Users\정민영\Desktop\369\369\bin\Debug\369.exe.config
+C:\Users\정민영\Desktop\369\369\bin\Debug\369.exe
+C:\Users\정민영\Desktop\369\369\bin\Debug\369.pdb
+C:\Users\정민영\Desktop\369\369\obj\Debug\369.csprojAssemblyReference.cache
+C:\Users\정민영\Desktop\369\369\obj\Debug\_369.Form1.resources
+C:\Users\정민영\Desktop\369\369\obj\Debug\_369.Properties.Resources.resources
+C:\Users\정민영\Desktop\369\369\obj\Debug\369.csproj.GenerateResource.cache
+C:\Users\정민영\Desktop\369\369\obj\Debug\369.csproj.CoreCompileInputs.cache
+C:\Users\정민영\Desktop\369\369\obj\Debug\369.exe
+C:\Users\정민영\Desktop\369\369\obj\Debug\369.pdb

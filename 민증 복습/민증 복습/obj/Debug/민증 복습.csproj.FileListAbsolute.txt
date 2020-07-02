@@ -1,0 +1,10 @@
+C:\Users\정민영\Desktop\민증 복습\민증 복습\bin\Debug\민증 복습.exe.config
+C:\Users\정민영\Desktop\민증 복습\민증 복습\bin\Debug\민증 복습.exe
+C:\Users\정민영\Desktop\민증 복습\민증 복습\bin\Debug\민증 복습.pdb
+C:\Users\정민영\Desktop\민증 복습\민증 복습\obj\Debug\민증 복습.csprojAssemblyReference.cache
+C:\Users\정민영\Desktop\민증 복습\민증 복습\obj\Debug\민증_복습.Form1.resources
+C:\Users\정민영\Desktop\민증 복습\민증 복습\obj\Debug\민증_복습.Properties.Resources.resources
+C:\Users\정민영\Desktop\민증 복습\민증 복습\obj\Debug\민증 복습.csproj.GenerateResource.cache
+C:\Users\정민영\Desktop\민증 복습\민증 복습\obj\Debug\민증 복습.csproj.CoreCompileInputs.cache
+C:\Users\정민영\Desktop\민증 복습\민증 복습\obj\Debug\민증 복습.exe
+C:\Users\정민영\Desktop\민증 복습\민증 복습\obj\Debug\민증 복습.pdb

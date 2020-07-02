@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "메모장 복습2", "메모장 복습2\메모장 복습2.csproj", "{11AE6288-4C58-4A1B-BB6F-D3EAE15E0D59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11AE6288-4C58-4A1B-BB6F-D3EAE15E0D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11AE6288-4C58-4A1B-BB6F-D3EAE15E0D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11AE6288-4C58-4A1B-BB6F-D3EAE15E0D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11AE6288-4C58-4A1B-BB6F-D3EAE15E0D59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D55907C5-0399-49C2-A2FA-977D16079FBB}
+	EndGlobalSection
+EndGlobal

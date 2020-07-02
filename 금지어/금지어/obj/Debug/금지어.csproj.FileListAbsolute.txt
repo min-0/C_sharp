@@ -1,0 +1,10 @@
+C:\Users\정민영\Desktop\금지어\금지어\bin\Debug\금지어.exe.config
+C:\Users\정민영\Desktop\금지어\금지어\bin\Debug\금지어.exe
+C:\Users\정민영\Desktop\금지어\금지어\bin\Debug\금지어.pdb
+C:\Users\정민영\Desktop\금지어\금지어\obj\Debug\금지어.csprojAssemblyReference.cache
+C:\Users\정민영\Desktop\금지어\금지어\obj\Debug\금지어.Form1.resources
+C:\Users\정민영\Desktop\금지어\금지어\obj\Debug\금지어.Properties.Resources.resources
+C:\Users\정민영\Desktop\금지어\금지어\obj\Debug\금지어.csproj.GenerateResource.cache
+C:\Users\정민영\Desktop\금지어\금지어\obj\Debug\금지어.csproj.CoreCompileInputs.cache
+C:\Users\정민영\Desktop\금지어\금지어\obj\Debug\금지어.exe
+C:\Users\정민영\Desktop\금지어\금지어\obj\Debug\금지어.pdb

@@ -1,0 +1,10 @@
+C:\Users\정민영\Desktop\메모장 복습2\메모장 복습2\bin\Debug\메모장 복습2.exe.config
+C:\Users\정민영\Desktop\메모장 복습2\메모장 복습2\bin\Debug\메모장 복습2.exe
+C:\Users\정민영\Desktop\메모장 복습2\메모장 복습2\bin\Debug\메모장 복습2.pdb
+C:\Users\정민영\Desktop\메모장 복습2\메모장 복습2\obj\Debug\메모장 복습2.csprojAssemblyReference.cache
+C:\Users\정민영\Desktop\메모장 복습2\메모장 복습2\obj\Debug\메모장_복습2.Form1.resources
+C:\Users\정민영\Desktop\메모장 복습2\메모장 복습2\obj\Debug\메모장_복습2.Properties.Resources.resources
+C:\Users\정민영\Desktop\메모장 복습2\메모장 복습2\obj\Debug\메모장 복습2.csproj.GenerateResource.cache
+C:\Users\정민영\Desktop\메모장 복습2\메모장 복습2\obj\Debug\메모장 복습2.csproj.CoreCompileInputs.cache
+C:\Users\정민영\Desktop\메모장 복습2\메모장 복습2\obj\Debug\메모장 복습2.exe
+C:\Users\정민영\Desktop\메모장 복습2\메모장 복습2\obj\Debug\메모장 복습2.pdb

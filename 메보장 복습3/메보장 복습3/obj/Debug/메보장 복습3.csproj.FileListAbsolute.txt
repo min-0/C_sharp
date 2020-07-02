@@ -1,0 +1,10 @@
+C:\Users\정민영\Desktop\메보장 복습3\메보장 복습3\bin\Debug\메보장 복습3.exe.config
+C:\Users\정민영\Desktop\메보장 복습3\메보장 복습3\bin\Debug\메보장 복습3.exe
+C:\Users\정민영\Desktop\메보장 복습3\메보장 복습3\bin\Debug\메보장 복습3.pdb
+C:\Users\정민영\Desktop\메보장 복습3\메보장 복습3\obj\Debug\메보장 복습3.csprojAssemblyReference.cache
+C:\Users\정민영\Desktop\메보장 복습3\메보장 복습3\obj\Debug\메보장_복습3.Form1.resources
+C:\Users\정민영\Desktop\메보장 복습3\메보장 복습3\obj\Debug\메보장_복습3.Properties.Resources.resources
+C:\Users\정민영\Desktop\메보장 복습3\메보장 복습3\obj\Debug\메보장 복습3.csproj.GenerateResource.cache
+C:\Users\정민영\Desktop\메보장 복습3\메보장 복습3\obj\Debug\메보장 복습3.csproj.CoreCompileInputs.cache
+C:\Users\정민영\Desktop\메보장 복습3\메보장 복습3\obj\Debug\메보장 복습3.exe
+C:\Users\정민영\Desktop\메보장 복습3\메보장 복습3\obj\Debug\메보장 복습3.pdb
